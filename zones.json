@@ -241,9 +241,9 @@
   },
   {
     "id": 30,
-    "name": "Bottle Jump 3D",
+    "name": "Bottle Flip 3D",
     "cover": "{COVER_URL}/30.png",
-    "url": "{HTML_URL}/30.html",
+    "url": "https://bazinga.great-site.net/bottle-flip3d.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=com.games.bottle"
   },
@@ -771,23 +771,7 @@
     "id": 96,
     "name": "Moto X3M",
     "cover": "{COVER_URL}/96.png",
-    "url": "{HTML_URL}/96.html",
-    "author": "",
-    "authorLink": ""
-  },
-  {
-    "id": 97,
-    "name": "Moto X3M 2",
-    "cover": "{COVER_URL}/97.png",
-    "url": "{HTML_URL}/97.html",
-    "author": "",
-    "authorLink": ""
-  },
-  {
-    "id": 98,
-    "name": "Moto X3M 3",
-    "cover": "{COVER_URL}/98.png",
-    "url": "{HTML_URL}/98.html",
+    "url": "https://motox3m-123.firebaseapp.com/",
     "author": "",
     "authorLink": ""
   },
